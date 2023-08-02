@@ -85,7 +85,7 @@ div .socialicons {
 }
 
 footer {
-  width: 1654px;
+  width: 100%;
   background-color: rgba(83, 83, 83, 0.33);
   padding: 108px 52px 181px 52px;
   display: block;
@@ -109,6 +109,11 @@ footer main {
   font-size: 20px;
   line-height: 24.2px;
   color: rgba(30, 30, 30, 1);
+}
+
+.block2 .footernavi,
+.block3 .footernavi {
+  padding-left: 38px;
 }
 
 .block2 ul,
