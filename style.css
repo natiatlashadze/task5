@@ -80,8 +80,8 @@ div .info p {
   line-height: 22px;
 }
 
-.socialicons {
-  gap: 24px;
+div .socialicons {
+  padding-top: 28px;
 }
 
 footer {
@@ -95,4 +95,43 @@ footer main {
   display: flex;
   justify-content: space-between;
   width: 1440px;
+}
+
+.block1 p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16.94px;
+  padding-top: 32px;
+}
+
+.footernavi {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24.2px;
+  color: rgba(30, 30, 30, 1);
+}
+
+.block2 ul,
+.block3 ul {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16.94px;
+  margin-top: 71px;
+}
+
+.block2 li,
+.block3 li {
+  height: 48px;
+}
+
+.block2 a,
+.block3 a {
+  color: rgba(83, 83, 83, 1);
+}
+
+.block4 button {
+  margin-top: 71px;
+  background-color: rgba(5, 74, 104, 1);
+  color: rgba(255, 255, 255, 1);
+  padding: 14px 16px 14px 16px;
 }
